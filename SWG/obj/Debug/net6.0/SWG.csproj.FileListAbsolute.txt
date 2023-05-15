@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.AssemblyInfo.cs
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SWG\SWG\bin\Debug\net6.0\SWG.exe
+C:\Users\dell\source\repos\SWG\SWG\bin\Debug\net6.0\SWG.deps.json
+C:\Users\dell\source\repos\SWG\SWG\bin\Debug\net6.0\SWG.runtimeconfig.json
+C:\Users\dell\source\repos\SWG\SWG\bin\Debug\net6.0\SWG.dll
+C:\Users\dell\source\repos\SWG\SWG\bin\Debug\net6.0\SWG.pdb
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.dll
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\refint\SWG.dll
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.pdb
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\SWG.genruntimeconfig.cache
+C:\Users\dell\source\repos\SWG\SWG\obj\Debug\net6.0\ref\SWG.dll
